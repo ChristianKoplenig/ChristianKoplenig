@@ -1,4 +1,8 @@
-### Hi there 👋
+my github account is not intented to share stuff publicly
+
+feel free to contact me 
+
+happy coding
 
 <!--
 **tmpck/tmpck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
