@@ -1,11 +1,11 @@
 ## About
-I belive in technology to help us solve problems. 
-I think energy consumption is one problem that needs to be solved.
+I belive in technology to help us solve certain problems. 
+I think energy consumption is one of those problems.
+I would like to help people solving this problem.
 
-
+## Professional Interests
 - Application design
 - Data analysis
-- Environment - Digitalization
 - IoT
 - Obsidian
 
@@ -14,22 +14,29 @@ I think energy consumption is one problem that needs to be solved.
 - Grafana
 - VsCode
 - Git
+
 ## Education
-- Uni Physik/Usw
-- Self taught - Books, Online courses
+- Bsc. Environmental System Sciences
+- My coding knowledge is mostly self taught via: 
+    - Friends!
+    - Books 
+    - Online courses
+    - Realpython
+    - Stackoverflow
+    - Diverse communitys
+    
 ## Skills
 - Python
 - Arduino
-- OpenHab Smarthome
+- OpenHab
 - Linux
 
 ## Hobbies
-- Handwerken
-- Pflanzen
-- Rennrad
-- Kaffeemaschinen
-- HRV Data
-- Klettern
+- Simple wood carpentry
+- Plants
+- Vintage espresso machines
+- Road cycling and the history around it
+- Climbing
 
 
 
