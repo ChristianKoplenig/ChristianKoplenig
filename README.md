@@ -1,3 +1,46 @@
+## About
+I belive in technology to help us solve problems. 
+I think energy consumption is one problem that needs to be solved.
+
+
+- Application design
+- Data analysis
+- Environment - Digitalization
+- IoT
+- Obsidian
+
+## Tools
+- Python
+- Grafana
+- VsCode
+- Git
+## Education
+- Uni Physik/Usw
+- Self taught - Books, Online courses
+## Skills
+- Python
+- Arduino
+- OpenHab Smarthome
+- Linux
+
+## Hobbies
+- Handwerken
+- Pflanzen
+- Rennrad
+- Kaffeemaschinen
+- HRV Data
+- Klettern
+
+
+
+
+
+
+
+
+
+
+
 my github account is not intented to share stuff publicly
 
 feel free to contact me 
