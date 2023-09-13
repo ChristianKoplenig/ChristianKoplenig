@@ -1,3 +1,10 @@
+|<div style="background-color: #3498db; color: #ffffff;">Your Text Here</div>|
+|:-------------------------------------------------------------------------:|
+| This is your custom-colored static banner. You can change the colors as   |
+| needed.                                                                   |
+
+
+
 ## About
 I belive in technology to help us solve certain problems. 
 I think energy consumption is one of those problems.
@@ -24,7 +31,7 @@ I would like to help people solving this problem.
     - Realpython
     - Stackoverflow
     - Diverse communitys
-    
+
 ## Skills
 - Python
 - Arduino
