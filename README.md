@@ -16,8 +16,9 @@
 
 ## Professional Interests
 - Greentech Software Solutions
-- Application design
 - Data analysis
+- Application design
+- Agent based modeling
 - IoT
 - Obsidian
 
@@ -38,6 +39,8 @@ I would like to help people solving this problem.
 
 ## Education
 - Bsc. in Environmental System Sciences
+    - Emphasis on physics and chemistry
+
 - My coding knowledge is mostly self taught via: 
     - Friends!
     - Books 
@@ -52,51 +55,3 @@ I would like to help people solving this problem.
 - Vintage espresso machines
 - Road cycling and the history around it
 - Climbing
-
-
-
-
-# <center>Snippets</center>
-
-<div style="background-color: #3498db; color: #ffffff; text-align: center; padding: 10px;">
-    <strong>I belive in technology to help us solve certain problems.</p></strong>
-    <strong>I think energy consumption is one of those problems.</p></strong>
-    <strong>I would like to help people solving this problem.</strong>
-</div>
-</p>
-|<div style="background-color: #453453; color: #ffffff;">Your Text Here</div>|
-|:-------------------------------------------------------------------------:|
-| This is your custom-colored static banner. You can change the colors as   |
-| needed.                                                                   |
-
-
-
-
-
-
-
-
-
-
-
-
-my github account is not intented to share stuff publicly
-
-feel free to contact me 
-
-happy coding
-
-<!--
-**tmpck/tmpck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
