@@ -27,16 +27,6 @@ I believe in technology to help us solve certain problems.
 I think energy consumption is one of those problems.  
 I would like to help people solving this problem.
 
-## Tools
-- Python
-- Arduino
-- Raspberry Pi
-- OpenHab
-- VsCode
-- Grafana
-- Git
-- Linux
-
 ## Education
 - Bsc. in Environmental System Sciences
     - Emphasis on physics and chemistry
