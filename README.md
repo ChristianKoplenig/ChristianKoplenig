@@ -23,7 +23,7 @@
 - Obsidian
 
 ## Motivation
-I belive in technology to help us solve certain problems.  
+I believe in technology to help us solve certain problems.  
 I think energy consumption is one of those problems.  
 I would like to help people solving this problem.
 
@@ -46,7 +46,7 @@ I would like to help people solving this problem.
     - Books 
     - Realpython
     - Stackoverflow
-    - Diverse communitys
+    - Diverse communities
     - Online courses
 
 ## Hobbies
