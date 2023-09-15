@@ -16,16 +16,16 @@
 
 ## Professional Interests
 - Greentech Software Solutions
-- Data analysis
-- Application design
-- Agent based modeling
+- Data Analysis
+- Application Design
+- Agent Based Modeling
 - IoT
 - Obsidian
 
 ## Motivation
-I believe in technology to help us solve certain problems.  
+I believe in technology aided problem solving.  
 I think energy consumption is one of those problems.  
-I would like to help people solving this problem.
+I want to support people in managing resources consciously.
 
 ## Education
 - Bsc. in Environmental System Sciences
