@@ -25,7 +25,7 @@
 ## Motivation
 I believe in technology aided problem solving.  
 I think energy consumption is one of those problems.  
-I want to support people in managing resources consciously.
+I want to support people in managing this resources consciously.
 
 ## Education
 - Bsc. in Environmental System Sciences
